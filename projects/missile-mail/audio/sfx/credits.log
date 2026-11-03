@@ -1,0 +1,7 @@
+2026-11-03 09:57 WIB sfx launch model=eleven_text_to_sound_v3 dur=3.0 character-cost=33 request-id=?
+2026-11-03 09:57 WIB sfx stamp model=eleven_text_to_sound_v3 dur=0.8 character-cost=9 request-id=?
+2026-11-03 09:57 WIB sfx crash model=eleven_text_to_sound_v3 dur=3.0 character-cost=33 request-id=?
+2026-11-03 09:57 WIB sfx sea model=eleven_text_to_sound_v3 dur=8.0 character-cost=88 request-id=?
+2026-11-03 09:57 WIB sfx flyby model=eleven_text_to_sound_v3 dur=3.0 character-cost=33 request-id=?
+2026-11-03 09:57 WIB sfx winter model=eleven_text_to_sound_v3 dur=8.0 character-cost=88 request-id=?
+2026-11-03 09:58 WIB sfx drag model=eleven_text_to_sound_v3 dur=4.0 character-cost=44 request-id=?

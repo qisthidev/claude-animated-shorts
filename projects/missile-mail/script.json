@@ -1,0 +1,58 @@
+{
+ "id": "ystd-s003-missile-mail",
+ "source": "riset-konten docs/pilot/missile-mail/NASKAH.md v2 (PASS-TEXT pra-TTS loket r2 09:32 WIB)",
+ "lines": [
+  {
+   "id": "L01",
+   "vo": "The U.S. Navy once delivered the mail... by guided missile."
+  },
+  {
+   "id": "L02",
+   "vo": "June 8th, 1959. Off Florida, the submarine USS Barbero carries a Regulus missile."
+  },
+  {
+   "id": "L03",
+   "vo": "Inside: three thousand letters. All from the Postmaster General."
+  },
+  {
+   "id": "L04",
+   "vo": "Fire."
+  },
+  {
+   "id": "L05",
+   "vo": "More than a hundred miles to the Navy's air station at Mayport... in about twenty-two minutes."
+  },
+  {
+   "id": "L06",
+   "vo": "The Postmaster General called it \"of historic significance to the peoples of the entire world.\""
+  },
+  {
+   "id": "L07",
+   "vo": "He also predicted: \"Before man reaches the moon, mail will be delivered within hours... to England, to India or to Australia, by guided missiles.\""
+  },
+  {
+   "id": "L08",
+   "vo": "Ten years later, man reached the moon."
+  },
+  {
+   "id": "L09",
+   "vo": "Missile mail? History proved differently."
+  },
+  {
+   "id": "L10",
+   "vo": "And the earliest known U.S. rocket mail? 1936. Unofficial."
+  },
+  {
+   "id": "L11",
+   "vo": "Two rockets, across a frozen lake."
+  },
+  {
+   "id": "L12",
+   "vo": "Both crash-landed short and slid along the ice... so the Hewitt postmaster dragged the mailbags the rest of the way."
+  },
+  {
+   "id": "L13",
+   "vo": "Would you have trusted a missile with your mail?"
+  }
+ ]
+}

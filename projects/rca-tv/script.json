@@ -1,0 +1,50 @@
+{
+ "id": "ystd-s005-rca-tv",
+ "source": "riset-konten docs/pilot/toon-ystd/s005-rca-tv/NASKAH.md v2 (PASS-TEXT pra-TTS loket r2 10:59 WIB)",
+ "lines": [
+  {
+   "id": "L01",
+   "vo": "Around 1939, RCA made a film to introduce something new to America: television."
+  },
+  {
+   "id": "L02",
+   "vo": "\"After ten years of experiment,\" it says, television was \"first shown to the public at the World's Fair.\""
+  },
+  {
+   "id": "L03",
+   "vo": "The set? \"Much like a radio in appearance,\" with a screen and a \"slanted mirror that reflects the image.\""
+  },
+  {
+   "id": "L04",
+   "vo": "In the camera, the iconoscope \"turns the image into electricity.\" In the receiver, the kinescope \"recreates the image.\""
+  },
+  {
+   "id": "L05",
+   "vo": "The signal went out from a transmitter \"atop the Empire State Building.\""
+  },
+  {
+   "id": "L06",
+   "vo": "But the limit was the horizon: \"only as far as the eye can see on a perfectly clear day.\""
+  },
+  {
+   "id": "L07",
+   "vo": "A typical program? A horse race, with a camera \"atop the grandstand.\""
+  },
+  {
+   "id": "L08",
+   "vo": "\"And so,\" the film says, \"a new American industry has been born.\""
+  },
+  {
+   "id": "L09",
+   "vo": "In 1950, the census found that twelve percent of U.S. homes had a TV."
+  },
+  {
+   "id": "L10",
+   "vo": "By January 1958, eighty-three percent of U.S. households had a TV, according to the Census Bureau."
+  },
+  {
+   "id": "L11",
+   "vo": "Would you have bought a TV in 1939? Yes or no?"
+  }
+ ]
+}

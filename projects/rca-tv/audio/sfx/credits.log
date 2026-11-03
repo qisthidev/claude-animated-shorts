@@ -1,0 +1,6 @@
+2026-11-03 11:05 WIB sfx fair model=eleven_text_to_sound_v3 dur=8.0 character-cost=88 request-id=?
+2026-11-03 11:05 WIB sfx tvon model=eleven_text_to_sound_v3 dur=1.5 character-cost=17 request-id=?
+2026-11-03 11:05 WIB sfx lab model=eleven_text_to_sound_v3 dur=6.0 character-cost=66 request-id=?
+2026-11-03 11:05 WIB sfx signal model=eleven_text_to_sound_v3 dur=3.0 character-cost=33 request-id=?
+2026-11-03 11:05 WIB sfx race model=eleven_text_to_sound_v3 dur=4.0 character-cost=44 request-id=?
+2026-11-03 11:05 WIB sfx street model=eleven_text_to_sound_v3 dur=6.0 character-cost=66 request-id=?

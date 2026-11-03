@@ -1,0 +1,7 @@
+node_modules/
+out/
+remotion-tmp/
+*.mp4
+audio/stems/
+vo/voice_timed.wav
+public/audio/mix.wav

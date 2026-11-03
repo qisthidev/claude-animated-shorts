@@ -1,0 +1,6 @@
+2026-11-03 10:44 WIB sfx scram model=eleven_text_to_sound_v3 dur=1.0 character-cost=11 request-id=?
+2026-11-03 10:44 WIB sfx plug model=eleven_text_to_sound_v3 dur=0.6 character-cost=7 request-id=?
+2026-11-03 10:44 WIB sfx room40 model=eleven_text_to_sound_v3 dur=8.0 character-cost=88 request-id=?
+2026-11-03 10:44 WIB sfx office model=eleven_text_to_sound_v3 dur=2.5 character-cost=28 request-id=?
+2026-11-03 10:44 WIB sfx hood model=eleven_text_to_sound_v3 dur=1.5 character-cost=17 request-id=?
+2026-11-03 10:44 WIB sfx vacuum model=eleven_text_to_sound_v3 dur=6.0 character-cost=66 request-id=?
